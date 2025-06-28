@@ -1,0 +1,54 @@
+https://keybase.io/koppi2342
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://koppi.github.io
+  * I am koppi2342 (https://keybase.io/koppi2342) on keybase.
+  * I have a public key ASDCY5y1cYLRFHEHd4DWB0Mab6Zsm6fDK0MKagDWXootJwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201d5fcb32852b5c2606f3a7549ea1d30d3d0fee8693365dab9d2e8a03418a700d0a",
+      "host": "keybase.io",
+      "kid": "0120c2639cb57182d11471077780d607431a6fa66c9ba7c32b430a6a00d65e8a2d270a",
+      "uid": "dae87c26693a75308558a7a6c4d25619",
+      "username": "koppi2342"
+    },
+    "merkle_root": {
+      "ctime": 1751133155,
+      "hash": "2a47a6690c296c6fecc88810635452792c53d252711b2d8baacbe9e34229e73b1421b98a1073bfb47a001ace37838753c955214fdfc9f584168fd39977681405",
+      "hash_meta": "04e704cfedbd4538b2e9b3c1a3b440abd9894f992fe00e2da7204a4acdc0939a",
+      "seqno": 26906848
+    },
+    "service": {
+      "entropy": "aXT909jgpho4Sih97FsGrDXZ",
+      "hostname": "koppi.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1751133209,
+  "expire_in": 504576000,
+  "prev": "2e0f7b91b1df9206a2e66b3c262ad61479ded250688b4b1e8b0c595f7d729f0d",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwmOctXGC0RRxB3eA1gdDGm+mbJunwytDCmoA1l6KLScKp3BheWxvYWTESpcCGcQgLg97kbHfkgai5ms8JirWFHne0lBoi0seiwxZX31ynw3EIOUo8EcUzaYk749aR/Dp29yDyLslQgtpWOERTw8jrJS/AgHCo3NpZ8RAxmStH1AkeVxWbwRDEswMwCYh9bzsZddAeOGmfA+Bhss+iAHffeo1xgUuQQs/0xXkCWPV40x1DYdINAPSjL0EDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGK6DN18vYWSgBxh8uvJyC8dqcg/MYCcnzTHGPLLIJ2so3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/koppi2342
+
